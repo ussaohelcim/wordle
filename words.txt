@@ -1,0 +1,10 @@
+mouse
+white
+black
+thing
+words
+cards
+clone
+power
+shell
+toast
